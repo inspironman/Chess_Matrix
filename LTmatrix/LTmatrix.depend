@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645631383 source:e:\coding\codeblocks\oops\ltmatrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1645376812 e:\coding\codeblocks\oops\ltmatrix\matrix.h
+
