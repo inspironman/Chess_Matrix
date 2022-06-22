@@ -1,0 +1,9 @@
+1 nicky 10
+1 smithy 5
+1 smithy 2
+1 smithy 3
+2 nicky 10
+2 smithy 10
+3 nicky 10
+3 smithy 4
+3 smithy 6
