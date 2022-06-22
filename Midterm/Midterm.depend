@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648827166 source:e:\coding\codeblocks\oops\midterm\main.cpp
+	<iostream>
+	"Infile.h"
+
+1648823476 e:\coding\codeblocks\oops\midterm\infile.h
+	<bits/stdc++.h>
+
+1648823499 source:e:\coding\codeblocks\oops\midterm\infile.cpp
+	"Infile.h"
+
