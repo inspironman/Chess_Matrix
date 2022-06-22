@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648638046 source:e:\coding\codeblocks\oops\teaching_hour_excellent\main.cpp
+	<iostream>
+	<fstream>
+	"InFile.h"
+
+1648637744 e:\coding\codeblocks\oops\teaching_hour_excellent\infile.h
+	<bits/stdc++.h>
+	<fstream>
+
+1648638113 source:e:\coding\codeblocks\oops\teaching_hour_excellent\infile.cpp
+	"InFile.h"
+
