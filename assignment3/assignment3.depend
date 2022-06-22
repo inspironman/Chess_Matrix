@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1652055870 source:e:\coding\codeblocks\oops\assignment3\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<exception>
+	"../library/summation.hpp"
+	"../library/procedure.hpp"
+	"../library/maxsearch.hpp"
+	"../library/seqinfileenumerator.hpp"
+	"../library/stringstreamenumerator.hpp"
+	"../library/counting.hpp"
+	"../library/linsearch.hpp"
+
+1651904810 e:\coding\codeblocks\oops\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1651904810 e:\coding\codeblocks\oops\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1651904810 e:\coding\codeblocks\oops\library\enumerator.hpp
+
+1651904810 e:\coding\codeblocks\oops\library\maxsearch.hpp
+	"procedure.hpp"
+
+1651904810 e:\coding\codeblocks\oops\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1651904810 e:\coding\codeblocks\oops\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1651906918 e:\coding\codeblocks\oops\library\counting.hpp
+	"summation.hpp"
+
+1651904810 e:\coding\codeblocks\oops\library\linsearch.hpp
+	"procedure.hpp"
+
