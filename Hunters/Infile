@@ -1,0 +1,16 @@
+#ifndef INFILE_
+#define INFILE_
+
+
+class Infile
+{
+    public:
+        Infile();
+        virtual ~Infile();
+
+    protected:
+
+    private:
+};
+
+#endif // INFILE_

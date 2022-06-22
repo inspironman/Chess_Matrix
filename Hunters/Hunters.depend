@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648475859 source:e:\coding\codeblocks\oops\hunters\infile.cpp
+	"Infile.h"
+
+1648470089 e:\coding\codeblocks\oops\hunters\infile.h
+	<bits/stdc++.h>
+
+1648476027 source:e:\coding\codeblocks\oops\hunters\main.cpp
+	<iostream>
+	"Infile.h"
+
