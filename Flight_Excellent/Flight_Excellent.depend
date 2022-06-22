@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648650434 source:e:\coding\codeblocks\oops\flight_excellent\main.cpp
+	<iostream>
+	"InFile.h"
+
+1648650430 source:e:\coding\codeblocks\oops\flight_excellent\infile.cpp
+	"InFile.h"
+
+1648646413 e:\coding\codeblocks\oops\flight_excellent\infile.h
+	<bits/stdc++.h>
+	<fstream>
+
