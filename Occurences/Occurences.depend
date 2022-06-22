@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648453692 source:e:\coding\codeblocks\oops\occurences\main.cpp
+	<bits/stdc++.h>
+	"Infile.h"
+
+1648453748 e:\coding\codeblocks\oops\occurences\infile.h
+	<iostream>
+	<fstream>
+
+1648453930 source:e:\coding\codeblocks\oops\occurences\infile.cpp
+	"Infile.h"
+
