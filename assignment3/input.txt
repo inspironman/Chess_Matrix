@@ -1,5 +1,0 @@
-Peter LAC0512 carp 45 carp 53 catfish 96
-Charis LAC0512 catfish 45 carp 53 catfish 96
-Meter PAS0512 carp 45 carp 53 catfish 96 catfish 45 carp 53 catfish 96 karlo 63
-Luka LAC0512
-Peter PAS0512
